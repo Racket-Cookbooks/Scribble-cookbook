@@ -2,6 +2,8 @@
 
 Welcome to the Racket Scribble Cookbook. This is a growing collection of recipes for creating the tastiest presentations with the [Racket Scribble library](https://docs.racket-lang.org/scribble/index.html) (documentation).
 
+Please also see the [Scribble Cheatsheet](https://docs.racket-lang.org/scribble-cheatsheet/index.html)
+
 If you would like to contribute please create an issue or pull request with your contribution. Please include image, code, and short description.
 
 Contributions are accepted on the condition they are licenced under the same terms as Racket: MIT or Apache 2.
@@ -15,4 +17,4 @@ Contributions are accepted on the condition they are licenced under the same ter
 
 ## Examples
 
-
+* ...
