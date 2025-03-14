@@ -4,9 +4,20 @@ Welcome to the Racket Scribble Cookbook. This is a growing collection of recipes
 
 Please also see the [Scribble Cheatsheet](https://docs.racket-lang.org/scribble-cheatsheet/index.html)
 
-If you would like to contribute please create an issue or pull request with your contribution. Please include image, code, and short description.
+If you would like to contribute please create an issue or pull request with your contribution. Please include image, code, and a short description.
 
-Contributions are accepted on the condition they are licenced under the same terms as Racket: MIT or Apache 2.
+
+## How to Contribute
+
+1. Make a new directory in the top level of this repository.
+2. Create a demo output of your contribution. The output could be a document (PDF, HTML, Markdown, etc.), an image, a slideshow, or anything else powered by Scribble.
+3. Write a short README with step-by-step instructions for reproducing the output.
+4. Include all code or links to supporting code.
+    * Example: A contribution based on Scribble doesn't need to include copies of the Scribble and Racket source code. (The README should say what Racket version it was tested on.)
+    * Example: A contribution that uses a library on the Racket package server, or on GitHub, GitLab, etc., doesn't need to include a copy of the library code.
+
+Contributions must be licenced under the same terms as Racket: MIT or Apache 2.
+
 
 ## Packages
 
